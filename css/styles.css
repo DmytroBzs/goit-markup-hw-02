@@ -60,18 +60,19 @@ h3 {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
+
 .page-header-nav-list-item:hover {
   color: #404bbf;
 }
 .page-header-nav-list-item:active {
   color: #404bbf;
 }
-.page-header-nav-list {
-  color: #2e2f42;
+.page-header-nav-link {
+    color: #2e2f42;
 }
-.page-header-nav-list:hover,
-.page-header-nav-list:focus {
-  color: #404bbf;
+.page-header-nav-link:hover,
+.page-header-nav-link:focus { 
+    color: #404bbf;
 }
 /* Contacts Styles */
 .contacts-list-link {
