@@ -23,6 +23,7 @@ h2 {
   line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
+  font-weight: 500;
 }
 h3 {
   color: var(--NAVY-BLUE, #2e2f42);
@@ -133,12 +134,7 @@ h3 {
   justify-content: center;
   background-color: #ffffff;
 }
-.team-names {
-  justify-content: center;
-}
-.team-text {
-  text-align: center;
-}
+
 /* Portfolio styles */
 .portfolio-title {
   color: var(--NAVY-BLUE, #2e2f42);
