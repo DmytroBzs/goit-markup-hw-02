@@ -3,8 +3,6 @@ body {
   color: var(--SLATE, #434455);
   background-color: #fff;
   font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
@@ -22,7 +20,6 @@ h2 {
   color: var(--NAVY-BLUE, #2e2f42);
   text-align: center;
   font-size: 36px;
-  font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
@@ -31,8 +28,6 @@ h3 {
   color: var(--NAVY-BLUE, #2e2f42);
   font-family: Roboto;
   font-size: 20px;
-  font-style: normal;
-  font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
 }
@@ -43,8 +38,6 @@ h3 {
   color: var(--IRIS, #4d5ae5);
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
@@ -61,12 +54,6 @@ h3 {
   letter-spacing: 0.32px;
 }
 
-.page-header-nav-list-item:hover {
-  color: #404bbf;
-}
-.page-header-nav-list-item:active {
-  color: #404bbf;
-}
 .page-header-nav-link {
     color: #2e2f42;
 }
@@ -78,10 +65,8 @@ h3 {
 .contacts-list-link {
   color: var(--SLATE, #434455);
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.32px;
-  font-style: normal;
 }
 .contacts-list-link:hover,
 .contacts-list-link:focus {
@@ -99,9 +84,7 @@ h3 {
 .hero-section-title {
   color: var(--WHITE, #fff);
   text-align: center;
-  font-family: Roboto;
   font-size: 56px;
-  font-weight: 700;
   line-height: 1.07;
   letter-spacing: 1.12px;
 }
@@ -127,14 +110,12 @@ h3 {
 .advantages-list-title {
   color: var(--NAVY-BLUE, #2e2f42);
   font-size: 20px;
-  font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
 }
 .advantages-list-text {
   color: var(--SLATE, #434455);
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
@@ -174,8 +155,6 @@ h3 {
   color: #4d5ae5;
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
